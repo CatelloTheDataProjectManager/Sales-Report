@@ -22,6 +22,6 @@ Delve into the depths of data analysis with the following components:
 
 [Notebook Jupyeter: Sales Analysis](https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/Sales_Analysis.ipynb)
 
-[Sales Report PDF](https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/sales_report.pdf)
-
 Explore the code and documentation to gain a deeper understanding of the project's intricacies and its impact on enhancing data-driven decision-making. Your feedback and contributions are highly appreciated! 🚀
+
+![Sales Report PDF](https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/sales_report.pdf)
