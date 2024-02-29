@@ -24,4 +24,5 @@ Delve into the depths of data analysis with the following components:
 
 Explore the code and documentation to gain a deeper understanding of the project's intricacies and its impact on enhancing data-driven decision-making. Your feedback and contributions are highly appreciated! 🚀
 
-![Sales Report PDF](https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/sales_report.pdf)
+![Sales Report Image](https://github.com/CatelloTheDataProjectManager/Sales-Report/raw/main/sales_report.jpg)
+
