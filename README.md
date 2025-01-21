@@ -43,3 +43,35 @@ During the transformation phase, we will visualize the [Data Model ](https://git
 In this phase, we will load and visualize the data using various Power BI visualizations. We will create card visualizations and control visual properties through formatting and visual options. We will set the canvas settings to 1350x850 for optimal display. We will create stacked bar charts, selecting KPIs and formatting the X-axis and Y-axis, adding data labels, and displaying units. We will change the title and display the top N (5) values. We will also create slicers with vertical lists and format the data in table view (mmmm/yy). Finally, we will create line charts to display trends and enable cross-filtering by setting File/Options & Settings/Report Settings.
 
 <img src="https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/Sales_report_power_bi.png" alt="PowerBI Sales Report" width="600">
+
+# Flask API for Data Visualization and Extraction
+
+This project demonstrates the automation of an API using Python and Flask to facilitate the visualization and extraction of data. The API enables users to efficiently retrieve, visualize, and analyze data.
+
+## Prerequisites
+
+To run this project, you will need:
+- Python 3.x
+- Flask
+- pandas
+- matplotlib (for visualization, if required)
+
+## Installation
+
+1. Clone the repository to your local machine.
+2. Create and activate a virtual environment for dependency management.
+3. Install the required dependencies listed in the `requirements.txt` file.
+
+## Usage
+
+1. Start the Flask application to run the API.
+2. Access the API via your web browser or a tool like Postman at the provided local server URL.
+
+## Endpoints
+
+The API provides the following endpoints:
+- `GET /data`: Fetches and displays data.
+- `POST /data`: Adds new data to the database.
+- `GET /visualize`: Generates a graphical visualization of the data.
+
+![API](https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/API.png)
