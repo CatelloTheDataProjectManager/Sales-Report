@@ -48,14 +48,6 @@ In this phase, we will load and visualize the data using various Power BI visual
 
 This project demonstrates the automation of an API using Python and Flask to facilitate the visualization and extraction of data. The API enables users to efficiently retrieve, visualize, and analyze data.
 
-## Prerequisites
-
-To run this project, you will need:
-- Python 3.x
-- Flask
-- pandas
-- matplotlib (for visualization, if required)
-
 ## Installation
 
 1. Clone the repository to your local machine.
