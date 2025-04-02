@@ -83,7 +83,14 @@ This project showcases the creation of an interactive dashboard using Streamlit 
 1. Launch the dashboard by running the Streamlit application locally.
 2. Access the interactive dashboard through your web browser using the provided local server URL.
 
-## Insights
+## Code
+You can find the code for the mortgage calculator [here](https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/mortgage_calculator.py).
 
-By combining intuitive KPIs with transparent visualizations, this dashboard empowers users to effortlessly monitor sales performance and trends. It serves as an invaluable tool for understanding customer preferences and driving business decisions.
+## Images
+The following table includes the relevant images:
 
+| Dashboard using Streamlit                                                                                   
+|--------------------------------------------------------------------------------------------------------|
+| ![Image 1](https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/1.png) |
+| ![Image 2](https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/2.png) |
+| ![Image 3](https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/3.png) |
