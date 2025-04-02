@@ -94,3 +94,22 @@ The following table includes the relevant images:
 | ![Image 1](https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/1.png) |
 | ![Image 2](https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/2.png) |
 | ![Image 3](https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/3.png) |
+
+
+## Benefits of Enhancements
+
+### Streamlit & Google Sheets: The Easiest "Database"
+Integrating **Google Sheets** with Streamlit can simplify data management and serve as an easy-to-use "database." Benefits include:
+- **Simplicity**: Google Sheets is intuitive and user-friendly, making it accessible for non-technical users.
+- **Cloud-Based Storage**: Data is stored in the cloud, ensuring accessibility and reducing dependency on local storage.
+- **Real-Time Updates**: Any edits to the Google Sheet are reflected live in the Streamlit application, allowing for seamless collaboration and data sharing.
+- **Cost Efficiency**: Using Google Sheets as a lightweight database eliminates the need for more complex database setups.
+
+### Add a User Authentication Service (Login Form) in Streamlit
+Integrating a user authentication system can enhance the dashboard by:
+- **Securing Data**: Ensures that only authorized users can access sensitive sales or customer data.
+- **Custom User Experiences**: Allows personalized content and metrics tailored to each user after login.
+- **Streamlined Access**: With a login system, users can save preferences, filters, or analysis for future sessions.
+- **Ease of Implementation**: Streamlit offers libraries like `streamlit-authenticator` for quick and efficient authentication setup.
+
+Adding these features not only increases usability but also transforms a simple dashboard into a scalable and secure tool for real-world business applications.
