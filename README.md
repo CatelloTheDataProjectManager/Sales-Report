@@ -44,7 +44,7 @@ In this phase, we will load and visualize the data using various Power BI visual
 
 <img src="https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/Sales_report_power_bi.png" alt="PowerBI Sales Report" width="600">
 
-# Flask API for Data Visualization and Extraction
+# Flask API for Data Visualization and Extraction 🕵️
 
 This project demonstrates the automation of an API using Python and Flask to facilitate the visualization and extraction of data. The API enables users to efficiently retrieve, visualize, and analyze data.
 
@@ -67,3 +67,23 @@ The API provides the following endpoints:
 - `GET /visualize`: Generates a graphical visualization of the data.
 
 ![API](https://github.com/CatelloTheDataProjectManager/Sales-Report/blob/main/API.png)
+
+# Dashboard using Streamlit 🚀
+
+This project showcases the creation of an interactive dashboard using Streamlit for analyzing and visualizing coffee sales data. The dashboard allows users to explore sales metrics, view dynamic visualizations, and gain insights into their data effortlessly.
+
+## Installation
+
+1. Clone the repository to your local machine.
+2. Ensure Python is installed, along with Streamlit.
+3. Install the required dependencies listed in the `requirements.txt` file.
+
+## Usage
+
+1. Launch the dashboard by running the Streamlit application locally.
+2. Access the interactive dashboard through your web browser using the provided local server URL.
+
+## Insights
+
+By combining intuitive KPIs with transparent visualizations, this dashboard empowers users to effortlessly monitor sales performance and trends. It serves as an invaluable tool for understanding customer preferences and driving business decisions.
+
